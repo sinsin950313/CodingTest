@@ -1,0 +1,9 @@
+C:/Users/sinsi/Desktop/CodingTest/build/CMakeFiles/Experimental.dir
+C:/Users/sinsi/Desktop/CodingTest/build/CMakeFiles/Nightly.dir
+C:/Users/sinsi/Desktop/CodingTest/build/CMakeFiles/Continuous.dir
+C:/Users/sinsi/Desktop/CodingTest/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/sinsi/Desktop/CodingTest/build/CMakeFiles/CodingTest.dir
+C:/Users/sinsi/Desktop/CodingTest/build/CMakeFiles/PACKAGE.dir
+C:/Users/sinsi/Desktop/CodingTest/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/sinsi/Desktop/CodingTest/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/sinsi/Desktop/CodingTest/build/CMakeFiles/ZERO_CHECK.dir
