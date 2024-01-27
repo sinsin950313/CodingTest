@@ -5,7 +5,7 @@ include(CTest)
 enable_testing()
 
 set(TestName CACHE STRING "Test Name")
-add_executable(CodingTest main.cpp ${TestName}.cpp)
+add_executable(CodingTest main.cpp ${TestName}/${TestName}.cpp)
 
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
 set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})

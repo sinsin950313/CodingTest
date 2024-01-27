@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "xtree": "cpp",
-        "set": "cpp",
-        "memory": "cpp",
-        "functional": "cpp"
-    }
-}

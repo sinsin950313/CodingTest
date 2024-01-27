@@ -257,7 +257,7 @@ void InputProcessor::Process(FGraph& Graph)
     }
 }
 
-void Solve()
+int Solve()
 {
     InputProcessor Processor;
     FGraph Graph;
@@ -266,4 +266,6 @@ void Solve()
 
     FPrimSpanningAlgorithm Prim;
     std::cout << Prim.Spanning(Graph);
+
+    return 0;
 }

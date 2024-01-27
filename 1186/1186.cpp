@@ -317,7 +317,7 @@ int FInputProcessor::Process(std::vector<std::shared_ptr<FRect>>& Rects)
     return SelectCount;
 }
 
-void Solve()
+int Solve()
 {
     std::vector<std::shared_ptr<FRect>> Rects;
 
@@ -338,4 +338,6 @@ void Solve()
     {
         std::cout << val << " ";
     }
+
+    return 0;
 }
